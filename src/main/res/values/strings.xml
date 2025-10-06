@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="calculate_tip">Calculadora de Gorjeta</string>
+    <string name="bill_amount">Valor da Conta</string>
+    <string name="tip_percentage">Percentual da Gorjeta: %1$d%%</string>
+    <string name="round_up_tip">Arredondar Gorjeta?</string>
+    <string name="tip_amount">Gorjeta: %1$s</string>
+    <string name="calculate">Calcular</string>
+</resources>
